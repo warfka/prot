@@ -9,7 +9,7 @@ float eps = 0.00001;
 */
 float X1(float X2, float X3)
 {
-	float X1 = (10.41 - 4.21 * X2 - 4.12 * X3)/ 34.25;
+	float X1 = (10.41 - 4.21 * X2 - 4.12 * X3)/ 34.25;//
 	return X1;
 }
 
